@@ -22,7 +22,7 @@ while infile = file.gets do
 end
 file.close
 #
-#comment
+#comment　テストコミット用
 #
 print"**********************************************************************\n"
 print"スケジュール作成システム①　予定表　written by ぱぱのすけ\n"
